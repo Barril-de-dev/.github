@@ -8,7 +8,11 @@ Membros
 Atualmente, nossa organização é composta por cinco desenvolvedores talentosos e entusiastas:
 
 Pedro Oliveira
+<br>
 Felipe Caldas
+<br>
 Daniel Oliveira
+<br>
 Lucas Stecher
+<br>
 Victor Lobão
