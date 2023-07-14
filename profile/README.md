@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Certamente! Aqui está uma versão atualizada do README.md com emojis nos títulos:
 
 # 🛢️ Barril de dev
@@ -7,6 +8,15 @@ Bem-vindo ao Barril de dev, uma organização dedicada a compartilhar conhecimen
 ## ℹ️ Sobre nós
 
 No Barril de dev, nosso objetivo é tornar o aprendizado de programação e desenvolvimento de software acessível a todos. Acreditamos que a prática é fundamental para aprimorar as habilidades técnicas, por isso criamos conteúdo prático e envolvente para ajudar os estudantes e desenvolvedores a expandirem seus conhecimentos.
+## 👥 Membros
+
+Aqui estão os membros da equipe Barril de dev:
+
+- Daniel Oliveira: [@dangrunger](https://github.com/dangrunger)
+- Felipe Caldas: [@felipecal](https://github.com/felipecal)
+- Lucas Stecher: [@lucasstecher](https://github.com/lucasstecher)
+- Pedro Oliveira: [@PedroDevOliveira](https://github.com/PedroDevOliveira)
+- Victor Lobão: [@victorvlobao](https://github.com/victorvlobao)
 
 ## 🤝 Como contribuir
 
@@ -31,7 +41,3 @@ Seu feedback e sugestões são muito importantes para nós. Fique à vontade par
 Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato conosco, sinta-se à vontade para nos enviar uma mensagem por meio de nossos canais de comunicação ou diretamente através dos comentários em nossos vídeos.
 
 Agradecemos por fazer parte da comunidade Barril de dev e esperamos que nossos vídeos e códigos sejam úteis para sua jornada no desenvolvimento de software!
-
-## 📄 Licença
-
-Todo o código-fonte e materiais compartilhados pela organização Barril de dev estão licenciados sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/BarrildeDEV/organization/blob/main/LICENSE) para obter mais informações.
