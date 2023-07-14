@@ -1,12 +1,14 @@
 ## Hi there 👋
+Um barril de dev
 
-<!--
+Descrição
+Bem-vindo ao repositório da nossa organização! Somos um grupo de desenvolvedores apaixonados por programação e tecnologia. Nossa missão é compartilhar conhecimento e promover o aprendizado contínuo em diversas linguagens de programação e tecnologias atuais. Aqui, você encontrará uma variedade de projetos, tutoriais e recursos úteis para aprimorar suas habilidades e se manter atualizado no mundo da programação.
 
-**Here are some ideas to get you started:**
+Membros
+Atualmente, nossa organização é composta por cinco desenvolvedores talentosos e entusiastas:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Pedro Oliveira
+Felipe Caldas
+Daniel Oliveira
+Lucas Stecher
+Victor Lobão
