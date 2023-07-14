@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-Certamente! Aqui está uma versão atualizada do README.md com emojis nos títulos:
-
 # 🛢️ Barril de dev
 
 Bem-vindo ao Barril de dev, uma organização dedicada a compartilhar conhecimento através de vídeos tutoriais e aulas sobre desenvolvimento de software. Aqui você encontrará os códigos e projetos desenvolvidos em nossas vídeo aulas, disponíveis em nosso canal no YouTube.
-
 ## ℹ️ Sobre nós
 
 No Barril de dev, nosso objetivo é tornar o aprendizado de programação e desenvolvimento de software acessível a todos. Acreditamos que a prática é fundamental para aprimorar as habilidades técnicas, por isso criamos conteúdo prático e envolvente para ajudar os estudantes e desenvolvedores a expandirem seus conhecimentos.
