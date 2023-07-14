@@ -19,7 +19,7 @@ Aqui estão os membros da equipe Barril de dev:
 Valorizamos a contribuição da comunidade para enriquecer nossos projetos e aulas. Se você deseja contribuir, siga estas etapas simples:
 
 1. Assista aos nossos vídeos tutoriais no canal do YouTube [@BarrildeDEV](https://www.youtube.com/@BarrildeDEV).
-2. Acesse o repositório correspondente ao vídeo/tutorial em nosso perfil [Barril de dev](https://github.com/BarrildeDEV) no GitHub.
+2. Acesse o repositório correspondente ao vídeo/tutorial em nosso perfil [Barril de dev](https://github.com/Barril-de-dev) no GitHub.
 3. Clone o repositório em sua máquina local.
 4. Faça as alterações ou adições necessárias ao código.
 5. Envie um pull request explicando suas alterações e como elas contribuem para o projeto.
@@ -29,7 +29,7 @@ Seu feedback e sugestões são muito importantes para nós. Fique à vontade par
 ## 🔗 Recursos úteis
 
 - Canal do YouTube: [BarrildeDEV](https://www.youtube.com/@BarrildeDEV) - Assista a nossas vídeo aulas e tutoriais sobre desenvolvimento de software.
-- Repositórios: Todos os códigos fonte desenvolvidos durante as vídeo aulas estão disponíveis em nosso [perfil Barril de dev](https://github.com/BarrildeDEV) no GitHub.
+- Repositórios: Todos os códigos fonte desenvolvidos durante as vídeo aulas estão disponíveis em nosso [perfil Barril de dev](https://github.com/Barril-de-dev) no GitHub.
 - Redes sociais: Siga-nos no Twitter [@BarrilDev](https://twitter.com/BarrilDev) para receber atualizações sobre novos vídeos, projetos e recursos.
 
 ## 📞 Entre em contato
